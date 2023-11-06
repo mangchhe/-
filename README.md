@@ -13,6 +13,11 @@
 - [응? 이게 왜 롤백되는거지?](https://techblog.woowahan.com/2606/)
   - Propagation, Transaction, Rollback, Try-Catch
 
+# Log
+
+- [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기](https://youtu.be/Ifz0LsfAG94?feature=shared)
+  - L7 Load Balancer, X-Forwarded-For, Proxy Protocol, Global Trace Id, MDC, Istio
+
 # Culture
 
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
