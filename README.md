@@ -1,10 +1,13 @@
+# OOP
+
+- [일급 컬렉션 (First Class Collection)의 소개와 써야할 이유](https://jojoldu.tistory.com/412) → [Summary][2]
+
 # Spring
 
 - [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법](https://techblog.woowahan.com/11392)
   - Stream, MultipartFile, Aws Multipart Upload
-- [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://techblog.woowahan.com/2668/)
+- [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://techblog.woowahan.com/2668/) → [Summary][1]
   - `@Where(clause = "delete = 0")`, totalCount 캐싱, 권한 관리, chunkSize, 코드 리뷰
-  - [Summary →][1]
 
 # Kotlin
 
@@ -27,3 +30,4 @@
   - D-n 규칙, Pn 규칙, pre-commit
 
 [1]: ./summary/1.md
+[2]: ./summary/2.md
