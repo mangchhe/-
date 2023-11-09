@@ -21,7 +21,7 @@
 
 # Log
 
-- [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기](https://youtu.be/Ifz0LsfAG94?feature=shared)
+- [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기](https://youtu.be/Ifz0LsfAG94?feature=shared) → [Summary][3]
   - L7 Load Balancer, X-Forwarded-For, Proxy Protocol, Global Trace Id, MDC, Istio
 
 # Culture
@@ -31,3 +31,4 @@
 
 [1]: ./summary/1.md
 [2]: ./summary/2.md
+[3]: ./summary/3.md
