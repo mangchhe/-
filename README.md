@@ -29,6 +29,11 @@
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
   - D-n 규칙, Pn 규칙, pre-commit
 
+# Performance
+
+- [채널톡 실시간 채팅 서버 개선 여정 - 1편 : 레디스의 'Pub/Sub'](https://channel.io/ko/blog/real-time-chat-server-1-redis-pub-sub)
+  - Redis, Socket.io, broadcast - O(NM)
+
 [1]: ./summary/1.md
 [2]: ./summary/2.md
 [3]: ./summary/3.md
