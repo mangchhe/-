@@ -18,6 +18,11 @@
 
 - [응? 이게 왜 롤백되는거지?](https://techblog.woowahan.com/2606/)
   - Propagation, Transaction, Rollback, Try-Catch
+ 
+# DB
+
+- [캐시 문제 해결 가이드 - DB 과부하 방지 실전 팁](https://toss.tech/article/cache-traffic-tip)
+  - Cache Stampede, Jitter, Cahce Penetration, Null Object Pattern, Failover, Hotkey, Distributed Lock for cache hit
 
 # Log
 
