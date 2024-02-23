@@ -39,6 +39,11 @@
 - [채널톡 실시간 채팅 서버 개선 여정 - 1편 : 레디스의 'Pub/Sub'](https://channel.io/ko/blog/real-time-chat-server-1-redis-pub-sub)
   - Redis, Socket.io, broadcast - O(NM)
 
+# Helpful Things
+
+- [넥스터즈 지원자 서류 검토 후기](https://imksh.com/108)
+- [개발자 이력서 작성 및 변화 과정 (이력서 공개)](https://imksh.com/120)
+
 [1]: ./summary/1.md
 [2]: ./summary/2.md
 [3]: ./summary/3.md
