@@ -2,6 +2,11 @@
 
 - [일급 컬렉션 (First Class Collection)의 소개와 써야할 이유](https://jojoldu.tistory.com/412) → [Summary][2]
 
+# Java
+
+- [도움이 될수도 있는 JVM memory leak 이야기](https://techblog.woowahan.com/2628/)
+  - RestTemplate, Zuul, neflix.servo metrics가 url pattern을 고유한 키로 판단하면서 발생하는 memory leak, ngrinder
+
 # Spring
 
 - [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법](https://techblog.woowahan.com/11392)
@@ -28,6 +33,11 @@
 
 - [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기](https://youtu.be/Ifz0LsfAG94?feature=shared) → [Summary][3]
   - L7 Load Balancer, X-Forwarded-For, Proxy Protocol, Global Trace Id, MDC, Istio
+
+# DevOps
+
+- [좌충우돌 Terraform 입문기](https://techblog.woowahan.com/2646/)
+  - cycle error, aws_sqs_queue_policy
 
 # Culture
 
