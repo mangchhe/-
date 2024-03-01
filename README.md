@@ -6,6 +6,8 @@
 
 - [도움이 될수도 있는 JVM memory leak 이야기](https://techblog.woowahan.com/2628/)
   - RestTemplate, Zuul, neflix.servo metrics가 url pattern을 고유한 키로 판단하면서 발생하는 memory leak, ngrinder
+- [Java의 미래, Virtual Thread](https://techblog.woowahan.com/15398/?fbclid=IwAR3DtFiX-vOdcMc1wlNPOESBZukFXGiPXzlMj7Ip7MGm6m9QCHhH2Yl0H5s)
+  - JDK21, 함수의 색 문제, Coroutine, CPU bound 작업엔 비효율적, 수시로 생성 및 소멸하기 때문에 thread local은 작게 유지
 
 # Spring
 
