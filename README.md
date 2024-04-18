@@ -51,6 +51,11 @@
 - [채널톡 실시간 채팅 서버 개선 여정 - 1편 : 레디스의 'Pub/Sub'](https://channel.io/ko/blog/real-time-chat-server-1-redis-pub-sub)
   - Redis, Socket.io, broadcast - O(NM)
 
+# Chat
+
+- [라이브채팅 플랫폼 구현기 1탄 : 개발 언어 및 기반기술 조사](https://kakaoentertainment-tech.tistory.com/109)
+  - HTTP Polling, Webscoket, MongoDB, Kafka, Trie, Aho-Corasick
+
 # Helpful Things
 
 - [넥스터즈 지원자 서류 검토 후기](https://imksh.com/108)
