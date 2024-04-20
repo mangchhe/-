@@ -55,6 +55,8 @@
 
 - [라이브채팅 플랫폼 구현기 1탄 : 개발 언어 및 기반기술 조사](https://kakaoentertainment-tech.tistory.com/109)
   - HTTP Polling, Webscoket, MongoDB, Kafka, Trie, Aho-Corasick
+- [라이브채팅 플랫폼 구현기 2탄 : 아키텍처 및 성능 테스트](https://kakaoentertainment-tech.tistory.com/110)
+  - 테스트 플랫폼 비교 및 분석, Consistent Hashing
 
 # Helpful Things
 
