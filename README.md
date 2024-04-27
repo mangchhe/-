@@ -15,6 +15,7 @@
   - Stream, MultipartFile, Aws Multipart Upload
 - [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://techblog.woowahan.com/2668/) → [Summary][1]
   - `@Where(clause = "delete = 0")`, totalCount 캐싱, 권한 관리, chunkSize, 코드 리뷰
+- [멀티모듈 설계 이야기 with Spring, Gradle](https://techblog.woowahan.com/2637/)
 
 # Kotlin
 
