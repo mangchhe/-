@@ -42,6 +42,10 @@
 - [좌충우돌 Terraform 입문기](https://techblog.woowahan.com/2646/)
   - cycle error, aws_sqs_queue_policy
 
+# Architecture
+
+- [우리동네GS BFF 구현기 Step 1 - 도입 배경과 설계](https://gsretail.tistory.com/40)
+
 # Culture
 
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
