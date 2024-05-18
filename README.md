@@ -51,6 +51,7 @@
 
 - [공통시스템개발팀 코드 리뷰 문화 개선 이야기](https://techblog.woowahan.com/7152/)
   - D-n 규칙, Pn 규칙, pre-commit
+- [우린 Git-flow를 사용하고 있어요](https://techblog.woowahan.com/2553/)
 
 # Performance
 
