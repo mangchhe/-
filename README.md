@@ -17,6 +17,7 @@
   - `@Where(clause = "delete = 0")`, totalCount 캐싱, 권한 관리, chunkSize, 코드 리뷰
 - [멀티모듈 설계 이야기 with Spring, Gradle](https://techblog.woowahan.com/2637/)
 - [우아한 feign 적용기](https://techblog.woowahan.com/2630/)
+- [OpenAPI Specification을 이용한 더욱 효과적인 API 문서화](https://tech.kakaopay.com/post/openapi-documentation/)
 
 # Kotlin
 
