@@ -18,6 +18,7 @@
 - [멀티모듈 설계 이야기 with Spring, Gradle](https://techblog.woowahan.com/2637/)
 - [우아한 feign 적용기](https://techblog.woowahan.com/2630/)
 - [OpenAPI Specification을 이용한 더욱 효과적인 API 문서화](https://tech.kakaopay.com/post/openapi-documentation/)
+- [스프링 배치(Spring Batch) 전환기](https://blog.naver.com/tmondev/220772936562)
 
 # Kotlin
 
