@@ -19,6 +19,7 @@
 - [우아한 feign 적용기](https://techblog.woowahan.com/2630/)
 - [OpenAPI Specification을 이용한 더욱 효과적인 API 문서화](https://tech.kakaopay.com/post/openapi-documentation/)
 - [스프링 배치(Spring Batch) 전환기](https://blog.naver.com/tmondev/220772936562)
+- [풀필먼트 입고 서비스팀에서 분산락을 사용하는 방법 - Spring Redisson](https://helloworld.kurly.com/blog/distributed-redisson-lock/)
 
 # Kotlin
 
