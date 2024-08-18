@@ -36,6 +36,7 @@
 - [캐시 문제 해결 가이드 - DB 과부하 방지 실전 팁](https://toss.tech/article/cache-traffic-tip)
   - Cache Stampede, Jitter, Cahce Penetration, Null Object Pattern, Failover, Hotkey, Distributed Lock for cache hit
 - [인덱스로 성능 개선하기 (feat. B-Tree 인덱스)](https://jminc00.tistory.com/87)
+- [NOT IN 대신 JOIN을 통한 쿼리 최적화 방법 (쿼리 시간 96% 절감 후기)](https://medium.com/iotrustlab/sql-optimization-from-not-in-to-left-join-16132ca048ba)
 
 # Log
 
