@@ -63,6 +63,7 @@
 - [채널톡 실시간 채팅 서버 개선 여정 - 1편 : 레디스의 'Pub/Sub'](https://channel.io/ko/blog/real-time-chat-server-1-redis-pub-sub)
   - Redis, Socket.io, broadcast - O(NM)
 - [WMS 재고 이관을 위한 분산 락 사용기](https://techblog.woowahan.com/17416/)
+- [대량의 트래픽이 몰려올 때 나는 어떻게 해야하나? - (feat. Cache, 대기열 구현)](https://velog.io/@joshuara7235/대량의-트래픽이-몰려올-때-나는-어떻게-해야하나-feat.-Cache-대기열-구현)
 
 # Chat
 
