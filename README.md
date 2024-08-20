@@ -77,6 +77,10 @@
 - [넥스터즈 지원자 서류 검토 후기](https://imksh.com/108)
 - [개발자 이력서 작성 및 변화 과정 (이력서 공개)](https://imksh.com/120)
 
+# Tools
+
+- [IntelliJ 등에서 메모리 점유율이 계속 높아질 때 (feat. vanilla JBR)](https://jojoldu.tistory.com/800)
+
 [1]: ./summary/1.md
 [2]: ./summary/2.md
 [3]: ./summary/3.md
