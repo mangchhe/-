@@ -77,6 +77,7 @@
 
 - [넥스터즈 지원자 서류 검토 후기](https://imksh.com/108)
 - [개발자 이력서 작성 및 변화 과정 (이력서 공개)](https://imksh.com/120)
+- [컬리의 새로운 배송 시스템 구축 과정과 우리가 배운점](https://helloworld.kurly.com/blog/2023-delivery-system/)
 
 # Tools
 
